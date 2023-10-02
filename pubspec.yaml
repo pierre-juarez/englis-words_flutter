@@ -1,12 +1,13 @@
-name: english_words
+name: english_wordss
 description: A new Flutter project.
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
-  sdk: '>=3.1.2 <4.0.0'
+  sdk: ">=3.1.2 <4.0.0"
 
 dependencies:
+  english_words: ^4.0.0
   flutter:
     sdk: flutter
 
